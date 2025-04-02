@@ -49,11 +49,3 @@ The model can detect ~36% of high-risk customers and potentially prevent **520,0
   - Renters and long-term loans
 
 - SHAP helps explain individual predictions for business transparency.
-
----
-
-## 🚀 Next Steps
-
-- ✅ Streamlit interface (coming soon)
-- ✅ Flask API integration (optional)
-
