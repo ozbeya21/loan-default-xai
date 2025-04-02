@@ -35,7 +35,6 @@ The model can detect ~36% of high-risk customers and potentially prevent **520,0
 - `models/`: Trained LightGBM model  
 - `images/`: SHAP visualizations  
 - `notebooks/`: Jupyter notebook with full code  
-- `src/`: Python script version (optional)  
 - `requirements.txt`: Dependencies
 
 ---
